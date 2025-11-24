@@ -1,0 +1,1 @@
+# twitch-highlighter-extension
